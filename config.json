@@ -7,7 +7,7 @@
       "link": "https://google.com/",
       "contact": "https://google.com/",
       
-      "addon": true,
+      "addon": false,
       "maps": false,
       "texture": false,
       "skin": true,
@@ -35,36 +35,12 @@
   ],
   "Addon": [
     {
-        "name": "Minecon 2021 Mobs Add-on",
-        "role": "In this add-on I added the three mobs for voting.I created this add-on a few days ago, but only today I managed to publish it, we already know who won,congratulations allay! but now you can enjoy all the mobs. Except for one, the bean already has similar functions to those given by minecraft, but I couldn't add them identical. I am working to improve them,but at the same time I am working on other add-ons and the next update for this add-on will appear later. For the functions currently added to the mobs, you can find them below in the description of each mob",
-        "image": "https://kossandroid.com/Data Android/Minecraft/copper golem/2/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/copper golem/2/Minecon_2021_Mobs_Addon.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/copper golem/2/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/copper golem/2/3.png"
-    },
-    {
-        "name": "Copper Golem Friend",
-        "role": "This addon adds a copper golem, which was shown at Minecon 2021. Unfortunately, he can't press the buttons, but he will become a friend for you. Initially, he will be afraid of anything that can harm him. But if you tame him, he will be your protector and faithful companion.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/copper golem/3/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/copper golem/3/Friend_Copper_Golem.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/copper golem/3/1.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/copper golem/3/1.png"
-    },
-    {
-        "name": "M'Golem (V1)",
-        "role": "Well Its quiet Easy to explain.This addon adds (13) New Golems into MC!These are quiet simple Golems but some have special abilitys and the better the Golem the Bigger :PSo welp Hope you enjoy! :)   Btw Turn on All experimental Gameplay Features  On   ",
-        "image": "https://kossandroid.com/Data Android/Minecraft/copper golem/6/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/copper golem/6/MGolem_V1.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/copper golem/6/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/copper golem/6/3.png"
-    },
-    {
-        "name": "More Golems Remastered! (V2 Update!)",
-        "role": "I've decide to remaster my old more golems addon. Have you ever wanted custom golems? Well your dreams has come true! This addon adds 10+ custom golems! Diamond Golem, Golden Golem, Emerald Golem, and much more!",
-        "image": "https://kossandroid.com/Data Android/Minecraft/copper golem/7/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/copper golem/7/More_Golems_Remastered.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/copper golem/7/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/copper golem/7/3.png"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Map": [
